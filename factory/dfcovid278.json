@@ -1,0 +1,9 @@
+{
+	"name": "dfcovid278",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c97015f-27c3-47ae-8ae8-51884c0f7056",
+		"tenantId": "b3cbfa37-4df0-4862-bd68-cd2ccc1bdc03"
+	}
+}
